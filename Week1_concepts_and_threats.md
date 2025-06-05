@@ -1,9 +1,10 @@
 # Week 1 - Threats & Security Concepts
 
 ## CIA Triad
-- **Confidentiality:** Keeping data private (e.g. encryption)
-- **Integrity:** Making sure data isn't changed (e.g. hashing)
-- **Availability:** Ensuring systems/data are accessible (e.g. backups)
+- **Confidentiality**: Prevent unauthorized access to sensitive info (e.g., encrypting data, strong passwords).
+- **Integrity**: Ensure data hasn’t been tampered with (e.g., hashing files, digital signatures).
+- **Availability**: Make sure systems/data are always usable when needed (e.g., using RAID, generators, cloud backups).
+
 
 ## Threat Actors
 - Script kiddies
