@@ -1,5 +1,7 @@
 # Week 1 - Threats & Security Concepts
 
+##DAY 1 PURPOSE OF SECURITY- THE CIA TRIAD
+
 ## CIA Triad
 - **Confidentiality**: Prevent unauthorized access to sensitive info (e.g., encrypting data, strong passwords).
 - **Integrity**: Ensure data hasn’t been tampered with (e.g., hashing files, digital signatures).
@@ -7,10 +9,10 @@
 
 
 ## Threat Actors
-- Script kiddies
-- Hacktivists
-- Nation-state actors
-- Insider threats
+- Script kiddies : people with low knowledge, they hack systems with prebuilt tools. A good fire walling and good measures can stop them
+- Hacktivists : Theyre intent and motivation is hat ou gotta know.
+- Nation-state actors : Also known as Advanced Persistent threats(APTs), theyre well resourced groups that are directly or indirectly gunded by government to commit cyberattacks.
+- Insider threats : This is not always an employee. it can be a claaner or a customer, anyone who comes into the infrastructure or works there.
 
 ## Types of Attacks
 - Malware: Virus, Worm, Trojan
