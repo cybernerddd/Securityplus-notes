@@ -1,6 +1,6 @@
 # Week 1 - Threats & Security Concepts
 
-##DAY 1 PURPOSE OF SECURITY- THE CIA TRIAD
+**DAY 1 PURPOSE OF SECURITY- THE CIA TRIAD**
 
 ## CIA Triad
 - **Confidentiality**: Prevent unauthorized access to sensitive info (e.g., encrypting data, strong passwords).
@@ -21,7 +21,7 @@
 
 
 ## DAY 2 RISK AND RISK MANAGEMENT 
---**Risk**: the potential to cause harm
+- **Risk** : the potential to cause harm
 - **Assests** : are tangible & intangible part of an infrastructure that provides benefits to the organization. And assest can be a computer or a server and can also be an employee. people can be assests 
 - **Threat** : Is someone or something that can cause harm to our infrastructure. It can be a volcano or an earthquake or an unauthorized individual walking into the server room.
 - **Vulnerability** : Is an open door in an asset that can be exploited. it can be open doors to a server room or an threat actor exploiting...
@@ -42,3 +42,16 @@
 - **Shoulder Surfing**: Watching people enter info.
 - **Dumpster Diving**: Digging through trash for data.
 
+## Security Controls
+
+**Types of Controls**
+- **Administrative**: Policies and rules
+- **Technical**: Software/hardware protection
+- **Physical**: Physical security measures
+
+**Control Categories**
+- **Preventive**: Stop attack (e.g., firewall)
+- **Detective**: Detect attack (e.g., IDS)
+- **Corrective**: Recover from attack (e.g., restore backup)
+- **Deterrent**: Discourage attack (e.g., signs)
+- **Compensating**: Alternate control (e.g., cameras when no MFA)
