@@ -31,3 +31,14 @@
 !--- Go check up NIST SP 800-30 (talks about all threats and vulnerabilities a security could face)--
 
 
+## Day 3 – Social Engineering
+
+- **Phishing**: Fake emails/messages to trick users.
+- **Spear Phishing**: Targeted phishing with personal info. Email from your boss or something.
+- **Vishing**: Voice phishing.
+- **Smishing**: SMS-based phishing.
+- **Pretexting**: Attacker lies to get info.
+- **Tailgating**: Following someone into a secure area.
+- **Shoulder Surfing**: Watching people enter info.
+- **Dumpster Diving**: Digging through trash for data.
+
