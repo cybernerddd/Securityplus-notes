@@ -10,9 +10,9 @@
 
 ## Threat Actors
 - Script kiddies : people with low knowledge, they hack systems with prebuilt tools. A good fire walling and good measures can stop them
-- Hacktivists : Theyre intent and motivation is hat ou gotta know.
-- Nation-state actors : Also known as Advanced Persistent threats(APTs), theyre well resourced groups that are directly or indirectly gunded by government to commit cyberattacks.
-- Insider threats : This is not always an employee. it can be a claaner or a customer, anyone who comes into the infrastructure or works 
+- Hacktivists : Theyre intent and motivation is what you gotta know.
+- Nation-state actors : Also known as Advanced Persistent threats(APTs), theyre well resourced groups that are directly or indirectly funded by government to commit cyberattacks.
+- Insider threats : This is not always an employee. it can be a claaner or a customer, anyone who comes into the infrastructure or works in there.
 
 
 ## Types of Attacks
@@ -28,7 +28,7 @@
 - **Vulnerability** : Is an open door in an asset that can be exploited. it can be open doors to a server room or an threat actor exploiting...
 - **impact** : the damage at which a risk can hit
 - Threats exploit vulnerabilities to harm assets
---- Threat * vulnerability = risk 
+### Threat * vulnerability = risk 
 !--- Go check up NIST SP 800-30 (talks about all threats and vulnerabilities a security could face)--
 
 
@@ -58,21 +58,23 @@
 - **Compensating**: Alternate control (e.g., cameras when no MFA)
 
 ## Day 4 Threat groups, vulnerabily assessments, Mitigations.
-**Adversarial** : Human based attacks. i.e hackers, insiders or malicious actors trying to break in
-**Environmental** : Natural disasters or weather . i.e floods, fire etc
-**structural** : These are failures in tech. e.g hardware & software crashed ...
-**Accidental** : Human errors. e.g, mistakingly deleting files or misconfigurations.
+- **Adversarial** : Human based attacks. i.e hackers, insiders or malicious actors trying to break in
+- **Environmental** : Natural disasters or weather . i.e floods, fire etc
+- **structural** : These are failures in tech. e.g hardware & software crashed ...
+- **Accidental** : Human errors. e.g, mistakingly deleting files or misconfigurations.
 
-**Threat Assessment** identifies potential attackers/harm sources. Goal is, Who might attack us?
-**Vulnerability Assessment** scabs for weaknesses. the goal is, Where are we exposed?
+- **Threat Assessment** identifies potential attackers/harm sources. Goal is, Who might attack us?
+- **Vulnerability Assessment** scabs for weaknesses. the goal is, Where are we exposed?
 
-#Mitigation : What we do to reduce the risk impact or eliminate risk.
-**Risk Type**           = **Mitigation**
-Unauthorized Access = RBAC, MFA
-Malware Infection.  = Anti virus 
-Power loss.         = Backup generator, UPS
-Data loss.           = Backup, RAID, snapshots
-Insider threats.     = Monitoring, Audit logs, user behavior analytics
+# Mitigation : What we do to reduce the risk impact or eliminate risk.
+
+| **Risk Type** | **Mitigation** |
+|---------------| ---------------|
+| Unauthorized Access | RBAC, MFA |
+| Malware Infection | Anti virus | 
+| Power loss | Backup generator, UPS |
+| Data loss | Backup, RAID, snapshots |
+| Insider threats | Monitoring, Audit logs, user behavior analytics |
 
 ###Risk acceptance
 Thats a situation where the risk we're facing is smaller to the cost for mitigation, that way we just accept the risk. E.g,  A small business decides not to buy a $10,000 advanced firewall because the data they're protecting isn't highly sensitive, and their existing controls (like basic router security) are “good enough” for the actual threat level.
