@@ -87,7 +87,7 @@ Thats a situation where the risk we're facing is smaller to the cost for mitigat
 **Example**: A company accepts the risk of running a legacy application because it would cost too much to upgrade it — even though it’s vulnerable.
 
 
-## Day 6 – Common Ports and Protocols
+## Day 6 – Common Ports and Protocols 
 
 | Port | Protocol | Description |
 |------|----------|-------------|
