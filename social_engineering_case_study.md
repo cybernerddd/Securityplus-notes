@@ -14,7 +14,7 @@ Despite mitigation efforts like **password resets** and **account lockdowns**, t
 
 ---
 
-## 🔍 How This Could Have Been Prevented
+## 🔍 How This Could Have Been Prevented 
 
 - **Employee Awareness Training**: If the affected staff had been trained to recognize phishing emails, the attack might have been reported earlier or avoided entirely.
 - **Email Filtering + MFA**: Stronger email filters and **multi-factor authentication** on accounts would’ve made it harder for attackers to log in even with stolen credentials.
