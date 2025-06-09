@@ -32,3 +32,17 @@
 - **Frameworks**: Structured approach to security (e.g., NIST CSF, COBIT).
 - **Benchmarks**: Specific configuration rules (e.g., CIS Benchmarks).
 - **Baselines**: Minimum acceptable security levels (e.g., strong passwords, firewall enabled).
+
+## NA-007 – Security Control Types
+
+### Nature of Control:
+- **Administrative**: Policies and procedures (e.g., training users, hiring practices).
+- **Technical**: Tech-based defense (e.g., antivirus, firewalls).
+- **Physical**: Physical protection (e.g., doors, fences, guards).
+
+### Functional Categories:
+- **Preventive**: Stops threats (e.g., MFA, firewall).
+- **Detective**: Finds threats (e.g., IDS, CCTV logs).
+- **Corrective**: Fixes issues after attacks (e.g., restore backup).
+- **Deterrent**: Makes attacker back off (e.g., warning signs).
+- **Compensating**: Backup measure when others can’t apply (e.g., camera instead of MFA).
