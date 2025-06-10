@@ -29,7 +29,7 @@
 - **impact** : the damage at which a risk can hit
 - Threats exploit vulnerabilities to harm assets
 ### Threat * vulnerability = risk 
-!--- Go check up NIST SP 800-30 (talks about all threats and vulnerabilities a security could face)--
+<!--- Go check up NIST SP 800-30 (talks about all threats and vulnerabilities a security could face)-->
 
 
 ## Day 3 – Social Engineering
