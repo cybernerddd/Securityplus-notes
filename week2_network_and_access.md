@@ -47,9 +47,23 @@
 - **Deterrent**: Makes attacker back off (e.g., warning signs).
 - **Compensating**: Backup measure when others can’t apply (e.g., camera instead of MFA).
 
-## NA-008 -9 Interesting security controls 
+## NA-008 - Interesting security controls 
 - **Mandatory Vacation**: Helps recognize if theres an insider among employees 
 - **Job rotation**: periodically switching people around to work in different positions.
 - **Multi-person control**: preventing a single person yo perform an action that could be bad. 
 - **sepaaration of duties**: single individual should not participate in all duties across the board.(i.e security should do security, sales should do sales not intermixing).
 -**principle of least privilege**
+
+## NA-009 – Defense in Depth
+
+- Use of **multiple layers** of security to protect systems.
+- No single control should be trusted to do everything.
+- Layers include:
+  - **Physical**: Locks, CCTV
+  - **Network**: Firewalls, IDS, segmentation
+  - **Host**: EDR, antivirus
+  - **App**: Input validation, auth checks
+  - **Data**: Encryption, backups
+  - **Policy/Admin**: User training, least privilege
+
+**Goal**: Slow attackers down, detect early, and minimize damage.
