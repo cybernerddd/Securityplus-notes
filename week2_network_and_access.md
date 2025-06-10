@@ -46,3 +46,10 @@
 - **Corrective**: Fixes issues after attacks (e.g., restore backup).
 - **Deterrent**: Makes attacker back off (e.g., warning signs).
 - **Compensating**: Backup measure when others can’t apply (e.g., camera instead of MFA).
+
+## NA-008 -9 Interesting security controls 
+- **Mandatory Vacation**: Helps recognize if theres an insider among employees 
+- **Job rotation**: periodically switching people around to work in different positions.
+- **Multi-person control**: preventing a single person yo perform an action that could be bad. 
+- **sepaaration of duties**: single individual should not participate in all duties across the board.(i.e security should do security, sales should do sales not intermixing).
+-**principle of least privilege**
