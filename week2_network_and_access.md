@@ -78,3 +78,12 @@
 - **System Owner**: Owns actual systems/platforms.
 - **User**: Follows policies and uses resources appropriately.
 - **Auditor**: Ensures compliance and reviews controls.
+
+## NA-011 – Security Policies
+
+- **Acceptable Use Policy (AUP)**: Defines what users can/cannot do on org systems.
+- **Password Policy**: Sets complexity, length, and reset requirements.
+- **Data Classification Policy**: Establishes labels like Public, Internal, Confidential.
+- **Privacy Policy**: Governs how personal/user data is handled.
+- **Security Awareness Policy**: Outlines user training frequency and topics.
+- **Clean Desk Policy**: Requires physical removal of sensitive info from unattended workspaces.
