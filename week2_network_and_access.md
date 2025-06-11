@@ -48,11 +48,11 @@
 - **Compensating**: Backup measure when others can’t apply (e.g., camera instead of MFA).
 
 ## NA-008 - Interesting security controls 
-- **Mandatory Vacation**: Helps recognize if theres an insider among employees 
+- **Mandatory Vacation**: Helps recognize if theres an insider among employees. Detects hidden fraud.
 - **Job rotation**: periodically switching people around to work in different positions.
 - **Multi-person control**: preventing a single person yo perform an action that could be bad. 
 - **sepaaration of duties**: single individual should not participate in all duties across the board.(i.e security should do security, sales should do sales not intermixing).
--**principle of least privilege**
+-**principle of least privilege**: only give access needed to do the job.(e.g. interns shouldn't have admin rights)
 
 ## NA-009 – Defense in Depth
 
@@ -67,3 +67,14 @@
   - **Policy/Admin**: User training, least privilege
 
 **Goal**: Slow attackers down, detect early, and minimize damage.
+
+## NA-010 – IT Security Governance
+
+### Key Roles:
+- **Senior Management**: Owns organizational risk, final authority.
+- **Security Officer (CISO)**: Creates and enforces security policies.
+- **Data Owner**: Classifies data, sets handling policies.
+- **Data Custodian**: Implements technical controls and stores data.
+- **System Owner**: Owns actual systems/platforms.
+- **User**: Follows policies and uses resources appropriately.
+- **Auditor**: Ensures compliance and reviews controls.
