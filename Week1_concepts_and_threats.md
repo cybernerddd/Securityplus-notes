@@ -76,7 +76,7 @@ you# Week 1 - Threats & Security Concepts
 | Data loss | Backup, RAID, snapshots |
 | Insider threats | Monitoring, Audit logs, user behavior analytics |
 
-###Risk acceptance
+**Risk acceptance**
 Thats a situation where the risk we're facing is smaller to the cost for mitigation, that way we just accept the risk. E.g,  A small business decides not to buy a $10,000 advanced firewall because the data they're protecting isn't highly sensitive, and their existing controls (like basic router security) are “good enough” for the actual threat level.
 
 ## Day 5 – Risk Response Strategies
