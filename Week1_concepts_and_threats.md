@@ -1,4 +1,4 @@
-# Week 1 - Threats & Security Concepts
+you# Week 1 - Threats & Security Concepts
 
 **DAY 1 PURPOSE OF SECURITY- THE CIA TRIAD**
 
@@ -64,7 +64,7 @@
 - **Accidental** : Human errors. e.g, mistakingly deleting files or misconfigurations.
 
 - **Threat Assessment** identifies potential attackers/harm sources. Goal is, Who might attack us?
-- **Vulnerability Assessment** scabs for weaknesses. the goal is, Where are we exposed?
+- **Vulnerability Assessment** scans for weaknesses. the goal is, Where are we exposed?
 
 # Mitigation : What we do to reduce the risk impact or eliminate risk.
 
