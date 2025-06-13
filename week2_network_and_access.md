@@ -87,3 +87,38 @@
 - **Privacy Policy**: Governs how personal/user data is handled.
 - **Security Awareness Policy**: Outlines user training frequency and topics.
 - **Clean Desk Policy**: Requires physical removal of sensitive info from unattended workspaces.
+
+# NA-012 – Security Frameworks and RMF
+
+## 🔐 NIST SP 800-37 – Risk Management Framework (RMF)
+
+This is a 6-step cycle used to manage cybersecurity risk in U.S. federal systems.  
+It’s widely used in both government and private sectors.
+
+### 📍 The 6 Steps of RMF (NIST 800-37):
+1. **Categorize** – Identify and label systems based on impact (low/med/high)
+2. **Select** – Choose appropriate security controls (from NIST 800-53)
+3. **Implement** – Apply the selected controls
+4. **Assess** – Evaluate control effectiveness (usually via audit or testing)
+5. **Authorize** – Decide whether the system is approved to operate (ATO)
+6. **Monitor** – Continuously track control performance, make updates
+
+---
+
+## 📚 Related Frameworks
+
+| Framework | Purpose |
+|----------|---------|
+| **NIST SP 800-53** | Catalog of security controls (used in RMF step 2) |
+| **NIST CSF** | High-level, business-friendly cybersecurity framework (Identify, Protect, Detect, Respond, Recover) |
+| **ISO/IEC 27001** | Global standard for InfoSec management |
+| **COBIT** | Aligns IT + security controls with business goals |
+| **CIS Controls** | 18 prioritized best practices (used in SMBs) |
+| **PCI DSS** | Credit card security standard (required by payment processors) |
+
+---
+
+## 🎯 Key Concept:
+
+- **NIST 800-37** tells you *how to run a secure system lifecycle*  
+- **NIST 800-53** tells you *what specific controls to apply*
