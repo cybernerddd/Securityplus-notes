@@ -144,3 +144,21 @@ It’s widely used in both government and private sectors.
 → SLE = $3,000  
 → ALE = $6,000/year  
 → If MTTF = 100 hours, MTTR = 5 hours, MTBF = 105 hours
+
+# GreenMed Hospital – Real-World Risk Assessment (Ransomware Event)
+
+## Asset: Billing Server
+
+- **Value**: $60,000  
+- **Exposure Factor**: 0.4  
+- **ARO**: 1.5
+
+### 🔢 Calculated Values:
+- **SLE** = $24,000  
+- **ALE** = $36,000/year  
+- **Downtime Cost** = $75,000  
+- **MTBF** = 180.5 days
+
+### 📉 Business Impact:
+- **Level**: High  
+- **Reason**: Billing server outage halted revenue processes for 3 days, caused $75,000 in direct losses, and exposed the organization to compliance and operational risk.
