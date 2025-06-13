@@ -24,7 +24,7 @@
 - DMZ: Public zone separated from internal systems.
 - Air Gap: No physical connection to external networks.
 
-# switched up lanes
+# switched up lanes (Day 2)
 
 ## NA-006 – Using Risk Assessment Guides
 
@@ -47,7 +47,7 @@
 - **Deterrent**: Makes attacker back off (e.g., warning signs).
 - **Compensating**: Backup measure when others can’t apply (e.g., camera instead of MFA).
 
-## NA-008 - Interesting security controls 
+## NA-008 - Interesting security controls (Day 3)
 - **Mandatory Vacation**: Helps recognize if theres an insider among employees. Detects hidden fraud.
 - **Job rotation**: periodically switching people around to work in different positions.
 - **Multi-person control**: preventing a single person yo perform an action that could be bad. 
@@ -68,7 +68,7 @@
 
 **Goal**: Slow attackers down, detect early, and minimize damage.
 
-## NA-010 – IT Security Governance
+## NA-010 – IT Security Governance (Day 4)
 
 ### Key Roles:
 - **Senior Management**: Owns organizational risk, final authority.
@@ -88,7 +88,7 @@
 - **Security Awareness Policy**: Outlines user training frequency and topics.
 - **Clean Desk Policy**: Requires physical removal of sensitive info from unattended workspaces.
 
-# NA-012 – Security Frameworks and RMF
+# NA-012 – Security Frameworks and RMF (Day 5)
 
 ## 🔐 NIST SP 800-37 – Risk Management Framework (RMF)
 
@@ -122,3 +122,25 @@ It’s widely used in both government and private sectors.
 
 - **NIST 800-37** tells you *how to run a secure system lifecycle*  
 - **NIST 800-53** tells you *what specific controls to apply*
+
+# NA-013 – Quantitative Risk Calculations
+
+## Key Formulas:
+
+- **SLE = Asset Value × Exposure Factor**
+- **ALE = SLE × ARO**
+- **MTBF = MTTF + MTTR**
+
+## Definitions:
+- **MTTF** – Avg time before failure (non-repairable)
+- **MTTR** – Avg time to fix something
+- **MTBF** – Time between one fix and the next failure
+
+## Example:
+- Server = $10,000
+- Exposure Factor = 0.3
+- ARO = 2/year
+
+→ SLE = $3,000  
+→ ALE = $6,000/year  
+→ If MTTF = 100 hours, MTTR = 5 hours, MTBF = 105 hours
