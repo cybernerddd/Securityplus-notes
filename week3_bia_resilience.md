@@ -1,3 +1,23 @@
+# NA-014 – Business Impact Analysis 
+
+## Key Metrics:
+- **RTO (Recovery Time Objective)**: How fast you must recover
+- **RPO (Recovery Point Objective)**: How much data loss is acceptable
+- **MTTR**: Time to repair a failure
+- **MTTF**: Avg time before failure (non-repairable)
+- **MTBF**: Time between repeated failures (repairable systems)
+
+## Example:
+If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recovery objectives.
+
+## Impact Types:
+- **Life**
+- **Safety**
+- **Finance**
+- **Reputation**
+- **Property**
+
+
 # NA-015 – Security Controls and Resilience
 
 ## High Availability Tactics:
