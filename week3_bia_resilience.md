@@ -60,3 +60,18 @@ If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recove
 - Reduce user error
 - Catch phishing early
 - Build a security-first culture
+
+# NA-017 – Third Party Agreements & Risk Management
+
+## Key Agreements:
+- SLA: Defines services, uptime, response time
+- MOU: Informal cooperation agreement
+- MOA: Agreement with defined responsibilities
+- NDA: Confidentiality contract
+- ISA: Secure system interconnection rules
+- BPA: Legal partnership terms
+
+## Purpose:
+- Clarify roles and liability
+- Reduce risk from vendors
+- Set expectations for uptime, security, and data handling
