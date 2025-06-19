@@ -36,3 +36,22 @@ If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recove
 - Cold: Just building
 - Warm: Hardware, no data
 - Hot: Fully ready, live data sync
+
+# NA-016 – Security Awareness and Training
+
+## Types of Training:
+- Role-based training
+- Phishing awareness
+- Social engineering prevention
+- Onboarding & refresher training
+
+## Delivery Methods:
+- Simulated phishing campaigns
+- Security posters & reminders
+- Intranet video portals
+- Gamified rewards for good behavior
+
+## Purpose:
+- Reduce user error
+- Catch phishing early
+- Build a security-first culture
