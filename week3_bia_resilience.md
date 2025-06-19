@@ -45,6 +45,11 @@ If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recove
 - Social engineering prevention
 - Onboarding & refresher training
 
+## Offboarding
+- knowledge transfer
+- disable account (never delete account)
+- Return credentials 
+- Exit interview
 ## Delivery Methods:
 - Simulated phishing campaigns
 - Security posters & reminders
