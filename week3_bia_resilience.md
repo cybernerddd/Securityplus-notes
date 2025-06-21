@@ -75,3 +75,32 @@ If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recove
 - Clarify roles and liability
 - Reduce risk from vendors
 - Set expectations for uptime, security, and data handling
+
+# NA-019 – Cryptography Basics
+
+## 🧠 What is Cryptography?
+- The science of securing information using encoding techniques
+- Protects data confidentiality, integrity, authentication, non-repudiation
+
+## 🔐 Classical Algorithms Covered:
+- **Caesar Cipher** – shifts letters by a fixed value (simple, weak)
+- **Vigenère Cipher** – uses keyword for polyalphabetic substitution
+- **Binary Encryption** – represents characters as binary and manipulates with keys
+
+## 💡 Cryptographic Terms:
+- **Plaintext** – Readable data
+- **Ciphertext** – Encrypted version of plaintext
+- **Key** – Secret value used to encrypt/decrypt
+- **Algorithm** – The math behind the encryption
+
+## 🔄 States of Data:
+- **Data in Use** – Data in RAM/CPU while being processed
+- **Data at Rest** – Stored data (disk, database)
+- **Data in Transit** – Data moving over networks
+
+## 🛡️ Key Takeaways:
+- Data in use is vulnerable → protect with application security and memory protections
+- Data in transit must be encrypted (TLS/SSL, VPN)
+- Symmetric = 1 key (e.g., AES), Asymmetric = 2 keys (e.g., RSA)
+- Hashing ensures integrity (e.g., SHA-256)
+
