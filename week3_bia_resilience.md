@@ -104,3 +104,32 @@ If your RTO is 2 hours, and MTTR is 4 hours → You’re not meeting your recove
 - Symmetric = 1 key (e.g., AES), Asymmetric = 2 keys (e.g., RSA)
 - Hashing ensures integrity (e.g., SHA-256)
 
+
+# NA-020 – Cryptographic Methods & Key Exchange
+
+## 🔁 Symmetric vs. Asymmetric
+
+- **Symmetric**: Same key for encryption & decryption (e.g., AES)
+- **Asymmetric**: Public key encrypts, private key decrypts (e.g., RSA)
+
+## 🔐 Key Exchange
+
+### In-Band:
+- Key is shared over same channel as data
+- Used in TLS/SSL (HTTPS)
+- Less secure if connection is compromised
+
+### Out-of-Band:
+- Key is shared over separate channel
+- Example: Password by phone, file by email
+- Higher security, used in air-gapped or sensitive systems
+
+## ⏳ Ephemeral Keys
+- Temporary session keys
+- Used once, then discarded
+- Enables **Perfect Forward Secrecy**
+- Common in modern TLS (DHE, ECDHE)
+
+## 💡 Key Takeaway:
+Key exchange is central to encryption. Ephemeral keys + asymmetric exchange = strong secure session setup.
+
